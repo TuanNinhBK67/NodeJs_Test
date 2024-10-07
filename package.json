@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuanNinhBK67/NodeJs_Test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "ninh"
+  ],
+  "author": "ttninh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuanNinhBK67/NodeJs_Test/issues"
+  },
+  "homepage": "https://github.com/TuanNinhBK67/NodeJs_Test#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
